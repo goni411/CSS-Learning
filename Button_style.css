@@ -1,0 +1,209 @@
+.subscribe-button {
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  border-radius: 2px;
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  cursor: pointer;
+  vertical-align: top;
+  transition: opacity 0.15s;
+}
+.subscribe-button:hover {
+  opacity: 0.8;
+}
+.subscribe-button:active {
+  opacity: 0.7;
+}
+.join-button {
+  background-color: white;
+  border-color: rgb(6, 95, 212);
+  border-style: solid;
+  border-width: 1px;
+  color: rgb(6, 95, 212);
+  border-radius: 2px;
+  margin-right: 10px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  cursor: pointer;
+  vertical-align: top;
+  transition: background-color 0.15s, color 0.15s;
+}
+.join-button:hover {
+  background-color: rgb(6, 95, 212);
+  color: white;
+}
+.join-button:active {
+  opacity: 0.8;
+}
+
+.tweet-button {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  margin-right: 10px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+  vertical-align: top;
+  transition: box-shadow 0.15s;
+}
+.tweet-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.request-now-button {
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  border: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 18px;
+  padding-right: 18px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.request-now-button:hover {
+  opacity: 0.8;
+}
+.add-to-cart-button {
+  margin-top: 10px;
+  background-color: rgb(255, 216, 20);
+  border: none;
+  border-radius: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-size: 16px;
+  font-weight: 500;
+  vertical-align: top;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+.add-to-cart-button:hover {
+  background-color: rgb(255, 187, 0);
+}
+.signup-button {
+  margin-top: 10px;
+  background-color: rgb(46, 164, 79);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-weight: bold;
+  font-size: 15px;
+  vertical-align: top;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.signup-button:hover {
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+}
+.getstarted-button {
+  margin-top: 10px;
+  margin-right: 8px;
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  border-radius: 3px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: bold;
+  font-size: 13px;
+  vertical-align: top;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.getstarted-button:hover {
+  background-color: rgb(103, 53, 177);
+}
+.download-button {
+  margin-top: 10px;
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border: solid;
+  border-width: 1px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 3px;
+  font-weight: bolder;
+  font-size: 13px;
+  vertical-align: top;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.download-button:hover {
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+.Apply-button {
+  margin-top: 10px;
+  margin-right: 8px;
+  background-color: rgb(10, 102, 194);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-weight: bold;
+  font-size: 15px;
+  vertical-align: top;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.Apply-button:hover {
+  background-color: rgb(0, 88, 175);
+}
+.save-button {
+  margin: 10px 0px 0px 0px;
+  background-color: white;
+  color: rgb(10, 102, 194);
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(10, 102, 194);
+  border-radius: 25px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-weight: bold;
+  font-size: 16px;
+  cursor: pointer;
+  vertical-align: top;
+  transition: background-color 0.15s;
+}
+
+.save-button:hover {
+  background-color: rgb(232, 244, 255);
+  border-width: 2px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+}

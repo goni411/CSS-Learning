@@ -1,0 +1,126 @@
+a {
+  color: rgb(0, 113, 133);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+}
+a:hover {
+  color: rgb(201, 120, 0);
+}
+h2 {
+  color: rgb(0, 118, 0);
+  font-size: larger;
+}
+p {
+  font-size: 18px;
+}
+.addtocart-button {
+  background-color: rgb(255, 216, 20);
+  border: none;
+  height: 30px;
+  width: 120px;
+  border-radius: 25px;
+  font-size: 15px;
+  font-weight: 500;
+  transition: 0.15s;
+  cursor: pointer;
+}
+.addtocart-button:hover {
+  background-color: rgb(255, 187, 0);
+}
+.addtocart-button:active {
+  opacity: 0.7;
+}
+
+.buynow-button {
+  margin-left: 10px;
+  background-color: rgb(255, 164, 28);
+  border: none;
+  height: 30px;
+  width: 120px;
+  border-radius: 25px;
+  font-size: 15px;
+  font-weight: 500;
+  transition: 0.15s;
+  cursor: pointer;
+}
+.buynow-button:hover {
+  background-color: rgb(233, 140, 0);
+}
+.buynow-button:active {
+  opacity: 0.7;
+}
+
+div {
+  margin-top: 10px;
+}
+.back_button {
+  margin-right: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.next_button {
+  margin-left: 20px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-size: 16px;
+  cursor: pointer;
+}
+a {
+  margin: 0px 5px 0px 5px;
+  font-size: 22px;
+}
+.stretch_button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 8px 20px 8px 20px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.7s;
+}
+.stretch_button:hover {
+  padding: 16px 40px 16px 40px;
+}
+.shadow_button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 20px;
+  padding-right: 20px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+  font-size: 22px;
+  cursor: pointer;
+}
+.shadow_button:active {
+  margin-top: 3px;
+  margin-left: 3px;
+  box-shadow: 0px 0px 0px rgb(0, 0, 0);
+}
+.ott_button {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 22px;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.ott_button:hover {
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-left: 26px;
+  padding-right: 26px;
+}

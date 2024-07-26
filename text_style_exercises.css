@@ -1,0 +1,170 @@
+div {
+  margin-bottom: 10px;
+  border: solid;
+  border-width: 1px;
+  border-color: rgb(165, 165, 165);
+  width: 340px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+}
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.tahoma {
+  font-family: tahoma;
+  font-weight: bold;
+  font-size: 23px;
+}
+.deals {
+  font-family: arial;
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 6px;
+}
+.sales {
+  font-family: arial;
+  font-style: italic;
+  color: rgb(255, 60, 0);
+  font-size: 18px;
+}
+.html {
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 3px;
+}
+.text-html {
+  font-family: verdana;
+  color: rgb(100, 100, 100);
+  font-size: 15px;
+  margin-bottom: 16px;
+}
+.course-description {
+  font-family: verdana;
+  color: black;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 20px;
+  width: 270px;
+  margin-bottom: 14px;
+}
+.course-button {
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5 10 5 10;
+  font-family: verdana;
+  cursor: pointer;
+}
+.shopping {
+  font-family: arial;
+  font-size: 22px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 15px;
+}
+.shopdescr {
+  font-family: arial;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.shoplearn {
+  font-family: arial;
+  text-align: center;
+  color: #003ba8;
+  font-size: 14px;
+  text-align: center;
+  margin-bottom: 15px;
+  cursor: pointer;
+}
+.shoplearn:hover {
+  text-decoration: underline;
+}
+.tsce {
+  font-family: arial;
+  text-align: center;
+}
+.macnew {
+  font-weight: bold;
+  font-size: 12px;
+  color: chocolate;
+  margin-bottom: 6px;
+}
+.macname {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 4px;
+}
+.macinfo {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 8px;
+}
+.macprice {
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+.macbuy {
+  background-color: rgb(0, 107, 214);
+  color: white;
+  border: none;
+  border-radius: 25px;
+  padding: 5px 12px 5px 12px;
+  font-weight: bold;
+  font-size: 12px;
+  cursor: pointer;
+}
+.tsce2 {
+  font-family: arial;
+}
+.shareprice {
+  font-size: 30px;
+  margin-bottom: 4px;
+}
+.usd {
+  font-size: 15px;
+  font-weight: 500;
+  color: rgb(95, 95, 95);
+}
+.idp {
+  color: green;
+  font-size: 15px;
+  margin-bottom: 8px;
+}
+.afterhprice {
+  font-size: 15px;
+  font-weight: 500;
+  color: rgb(95, 95, 95);
+}
+.dps {
+  color: rgb(211, 14, 14);
+}
+
+.tsce3 {
+  font-family: arial;
+  width: 600px;
+}
+.fcch {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+.fcca {
+  font-weight: normal;
+  color: rgb(95, 95, 95);
+}
+.fccd {
+  font-size: 18px;
+  margin-bottom: 16px;
+}
+.fccl {
+  font-size: 18px;
+}
+.fccla {
+  cursor: pointer;
+  color: dodgerblue;
+}
